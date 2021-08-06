@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>003.jpg</filename>
+	<path>D:\python-workspace\ImageAi2.1.6_demo\pets\validation\images\003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>3</ymin>
+			<xmax>323</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21.jpg</filename>
+	<path>D:\python-workspace\ImageAi2.1.6_demo\pets\train\images\21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>11</ymin>
+			<xmax>461</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
